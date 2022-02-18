@@ -14,5 +14,7 @@ $ pip install bs4
 $ pip install futures
 
 $ git clone https://github.com/Zidanxganzz/ngapa
+
 $ cd ngapa
-$ python zidan.py
+
+$ python hasil.py
